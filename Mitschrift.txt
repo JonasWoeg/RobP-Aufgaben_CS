@@ -1,0 +1,38 @@
+ROBP 5. Jahrgang -> Hochsprachenprogrammierung
+
+"C#"  .NET-Framework
+      .NET-Core
+
+
+Entwicklungsumgebung (IDE)
+    |-> Editor
+    |-> Compiler => Ausführbares Programm
+    |-> Debugger 
+    v
+    Visual Studio 2022 (Preview Edition 4 | Community Edition)
+
+
+* Konsolenanwendungen
+  - Test ein-/ausgabe
+  - Variablen und Anweisungen
+  - Verzweigungen / Schleifen
+  - Funktionen
+  - Arrays
+
+* Windows Programm (GUI)
+
+* Objektorientierte Programmierung
+
+
+Vergleich: Kochrezept	-	Programm
+
+	* Zutaten	-	Variablen
+	* Zubereitung	-	Anweisungen
+
+  > Variable: Speicher für Werte (ganze Zahlen,
+                                  Gleitkommazahlen,
+                                  Wahrheitswerte,
+                                  String)
+Deklaration vor der Verwendung:
+  Typ Name = (Wert)
+
